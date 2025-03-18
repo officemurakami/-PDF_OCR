@@ -1,3 +1,5 @@
 streamlit
-PyMuPDF
+pytesseract
+pdf2image
+pillow
 pandas

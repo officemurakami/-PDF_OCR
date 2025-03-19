@@ -1,4 +1,5 @@
 streamlit
-google-generativeai
-PyMuPDF
+pytesseract
+pdf2image
 Pillow
+pandas
